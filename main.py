@@ -1,0 +1,6 @@
+snack = input("What is your favorite snack? ")
+plant = input("What kind of plant that lives in the desert? ")
+cook = input("How do you like your vegetable? ")
+food = input("What is the other name for burned? ")
+item = input("What tool does the carpenter use? ")
+print(cook, snack, "with", food, plant, "on a bed of", item)
